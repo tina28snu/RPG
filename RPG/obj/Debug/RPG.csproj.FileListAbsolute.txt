@@ -1,0 +1,6 @@
+C:\Curs\Csharp\OrienteObjet\RPG\RPG\bin\Debug\RPG.exe.config
+C:\Curs\Csharp\OrienteObjet\RPG\RPG\bin\Debug\RPG.exe
+C:\Curs\Csharp\OrienteObjet\RPG\RPG\bin\Debug\RPG.pdb
+C:\Curs\Csharp\OrienteObjet\RPG\RPG\obj\Debug\RPG.csprojResolveAssemblyReference.cache
+C:\Curs\Csharp\OrienteObjet\RPG\RPG\obj\Debug\RPG.exe
+C:\Curs\Csharp\OrienteObjet\RPG\RPG\obj\Debug\RPG.pdb
